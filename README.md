@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm a Software Engineer
-* 🚀  I'm currently working on [TLP]()
+* 🚀  I'm currently building [TLP]()
 * ⚡  I'm currently learning Apache Spark
 
 ----
